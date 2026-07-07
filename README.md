@@ -17,7 +17,7 @@ done
 ```lua
 -- U CAN USE TS IN UR ROBLOX GAME --
 
-local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/4lpaca-pin/NeverLose/refs/heads/main/source.luau"))() --require(script:WaitForChild('ModuleScript'));
+local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/Rag218/Neverlose-ui/refs/heads/main/source.lua"))() --require(script:WaitForChild('ModuleScript'));
 
 local Notification = NeverLose:CreateNotification();
 local Logging = NeverLose:CreateLogger();
