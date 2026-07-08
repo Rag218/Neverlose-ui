@@ -37,7 +37,7 @@ local toggleIcon = NeverLose:CreateToggleIcon(window, {
     Icon = "rbxassetid://120358385035996",  -- ou use seu próprio logo
     Size = 55,
     Border = 3,
-    Color = Color3.fromRGB(255, 200, 100)
+    Color = Color3.new(0.306, 0.502, 0.992)
 })
 
 -- Opcional: posicionar manualmente
