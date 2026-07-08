@@ -38,6 +38,7 @@ local toggleIcon = NeverLose:CreateToggleIcon(window, {
     Size   = 55,
     Border = 3,
     Color  = Color3.fromRGB(255, 200, 100),
+    Blur   = true
 })
 
 -- Opcional: mover para outra posição
